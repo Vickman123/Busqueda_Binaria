@@ -1,2 +1,2 @@
-# Busqueda_Binaria
-Creación de un árbol binario que nos permite Insertar, Mostrar, Buscar ,Recorrer y eliminar nodos dentro de el.
+#Binary_Search
+Creation of a binary tree that allows us to Insert, Show, Search, Traverse and eliminate nodes within it. 
